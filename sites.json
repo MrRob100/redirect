@@ -5,5 +5,8 @@
     "facebook.com",
     "youtube.com",
     "bbc.co.uk"
+  ],
+  "exceptions": [
+    "bbc.co.uk/weather"
   ]
 }
