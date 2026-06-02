@@ -3,8 +3,18 @@
   "name": "Redirect",
   "version": "0.1",
   "description": "Hello world popup.",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Redirect"
+    "default_title": "Redirect",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
   }
 }
