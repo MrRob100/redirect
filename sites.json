@@ -7,6 +7,9 @@
     "bbc.co.uk"
   ],
   "exceptions": [
-    "bbc.co.uk/weather"
+    "bbc.co.uk/weather",
+    "youtube.com/signin",
+    "youtube.com/logout",
+    "youtube.com/accounts"
   ]
 }
